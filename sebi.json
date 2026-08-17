@@ -17,7 +17,7 @@
         {
           "version": "2.2.0-1",
           "date": "2026-07-19T00:00:00Z",
-          "localizedDescription": "Nouveau lecteur VLC intégré, améliorations de l'interface iOS 26, corrections de bugs. Voir le changelog complet sur GitHub.",
+          "localizedDescription": "Nouveau lecteur VLC intégré, améliorations de l'interface iOS 26, corrections de bugs.",
           "downloadURL": "https://github.com/wscary69/sebi/raw/refs/heads/main/iTorrent.ipa",
           "size": 24326144,
           "minOSVersion": "16.0"
