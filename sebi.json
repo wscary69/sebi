@@ -1,0 +1,29 @@
+{
+  "name": "Ma Source iTorrent (gratuite)",
+  "identifier": "com.monsite.itorrent-source",
+  "sourceURL": "https://raw.githubusercontent.com/wscary69/sebi/main/sebi.json",
+  "website": "https://github.com/XITRIX/iTorrent",
+  "apps": [
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "developerName": "XITRIX",
+      "subtitle": "Client BitTorrent open source pour iOS",
+      "localizedDescription": "iTorrent est un client BitTorrent open source et gratuit pour iOS 16+, avec support de l'app Fichiers.",
+      "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/main/iTorrent/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "34C759",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.2.0-1",
+          "date": "2026-07-19T00:00:00Z",
+          "localizedDescription": "Nouveau lecteur VLC intégré, améliorations de l'interface iOS 26, corrections de bugs. Voir le changelog complet sur GitHub.",
+          "downloadURL": "https://github.com/wscary69/sebi/raw/refs/heads/main/iTorrent.ipa",
+          "size": 24326144,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
